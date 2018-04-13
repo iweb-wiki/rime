@@ -1,0 +1,16 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Apr  1 09:53:05 2018"
+  rime_version: 1.2.9
+patch:
+  menu:
+    page_size: 8
+  schema_list:
+    - {schema: pinyin_simp}
+    - {schema: wubi86}
+    - {schema: wubi_pinyin}
+  switcher:
+    caption: "〔方案選單〕"
+    hotkeys: [F4]

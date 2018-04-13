@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.0
+#@/tick	0
+#@/user_id	ba10576e-7c67-46cc-9c5b-6d3419cac62d

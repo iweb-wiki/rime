@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.3.0
+#@/tick	3
+#@/user_id	ba10576e-7c67-46cc-9c5b-6d3419cac62d
+cha jian 	插件	c=1 d=1 t=3
+ti huan 	替換	c=1 d=0.995012 t=3
+zhong wen 	中文	c=1 d=0.99005 t=3
